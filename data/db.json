@@ -1,0 +1,19 @@
+{
+  "mydata": [
+    {
+      "id": "edb3",
+      "title": "gym",
+      "price": 200
+    },
+    {
+      "id": "e116",
+      "title": "watrer",
+      "price": 50
+    },
+    {
+      "id": "c0f5",
+      "title": "food",
+      "price": 20
+    }
+  ]
+}
