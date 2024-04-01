@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactExpenses/static/css/main.c5ab6d70.css",
+    "main.js": "/reactExpenses/static/js/main.e8c86c04.js",
+    "static/js/453.d3cdb6a2.chunk.js": "/reactExpenses/static/js/453.d3cdb6a2.chunk.js",
+    "index.html": "/reactExpenses/index.html",
+    "main.c5ab6d70.css.map": "/reactExpenses/static/css/main.c5ab6d70.css.map",
+    "main.e8c86c04.js.map": "/reactExpenses/static/js/main.e8c86c04.js.map",
+    "453.d3cdb6a2.chunk.js.map": "/reactExpenses/static/js/453.d3cdb6a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5ab6d70.css",
+    "static/js/main.e8c86c04.js"
+  ]
+}
